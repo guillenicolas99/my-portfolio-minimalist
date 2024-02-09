@@ -2,7 +2,7 @@
     "basics": {
         "name": "Guillermo Antonio Nicolás Montenegro",
         "label": "Desarrollador Jr de FrontEnd con más de 3 años de experiencia",
-        "image": "https://media.licdn.com/dms/image/D4D03AQFFyOtUr4RRFQ/profile-displayphoto-shrink_800_800/0/1683092628262?e=1712793600&v=beta&t=ZqpF-i5gl2wngUlTkM8GPlv29UdeUOfAfWTaREe3nQM",
+        "image": "./public/profile-photo.webp",
         "email": "guillenicolas99@gmail.com",
         "phone": "+505 58870853",
         "url": "https://midu.dev",
