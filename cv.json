@@ -2,11 +2,11 @@
     "basics": {
         "name": "Guillermo Antonio Nicolás Montenegro",
         "label": "Desarrollador Jr de FrontEnd con más de 3 años de experiencia",
-        "image": "./public/profile-photo.webp",
+        "image": "./profile-photo.webp",
         "email": "guillenicolas99@gmail.com",
         "phone": "+505 58870853",
         "url": "https://midu.dev",
-        "summary": "+3 años de experiencia como Diseñador Web. Hasta la fecha soy Diseñador Web dentro de una agencia de marketing. Vivo en Managua, Nicaragua. He tranajado en diferentes entornos: desde proporcionar código eficiente para mejor performance dentro de los sitios webs estáticos, hasta liderar y dar asistencia en el desarrollo de aplicaciones dentro de las mismas.",
+        "summary": "+3 años de experiencia como Diseñador Web. Hasta la fecha soy Diseñador Web dentro de una agencia de marketing. Vivo en Managua, Nicaragua. He trabajado en diferentes entornos: desde proporcionar código eficiente para mejor performance dentro de los sitios webs estáticos, hasta liderar y dar asistencia en el desarrollo de aplicaciones dentro de las mismas.",
         "location": {
             "address": "",
             "postalCode": "",
