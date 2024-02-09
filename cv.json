@@ -226,7 +226,7 @@
             "url": "https://rick-morty-react-app-api.netlify.app/"
         },
         {
-            "name": "https://random-users-table-react.netlify.app/",
+            "name": "Tabla de Usuarios",
             "isActive": true,
             "description": "Consumiendo una API de usuarios al azar para mostrarlos en una tabla capaz de filtrar y ordenar",
             "highlights": [
