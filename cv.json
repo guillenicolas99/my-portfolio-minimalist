@@ -1,0 +1,257 @@
+{
+    "basics": {
+        "name": "Guillermo Antonio Nicolás Montenegro",
+        "label": "Desarrollador Jr de FrontEnd con más de 2 años de experiencia",
+        "image": "https://media.licdn.com/dms/image/D4D03AQFFyOtUr4RRFQ/profile-displayphoto-shrink_800_800/0/1683092628262?e=1712793600&v=beta&t=ZqpF-i5gl2wngUlTkM8GPlv29UdeUOfAfWTaREe3nQM",
+        "email": "guillenicolas99@gmail.com",
+        "phone": "+505 58870853",
+        "url": "https://midu.dev",
+        "summary": "+3 años de experiencia como Diseñador Web. Hasta la fecha soy Diseñador Web dentro de una agencia de marketing. Vivo en Managua, Nicaragua. He tranajado en diferentes entornos: desde proporcionar código eficiente para mejor performance dentro de los sitios webs estáticos, hasta liderar y dar asistencia en el desarrollo de aplicaciones dentro de las mismas.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Managua",
+            "countryCode": "Nic",
+            "region": "Nicaragua"
+        },
+        "profiles": [{
+                "network": "LinkedIn",
+                "username": "guillenicolas99",
+                "url": "https://www.linkedin.com/in/guillermo-nicolas-montenegro-68427921b/"
+            },
+            {
+                "network": "X",
+                "username": "guillenicolas99",
+                "url": "https://twitter.com/guillenicolas99"
+            },
+            {
+                "network": "GitHub",
+                "username": "guillenicolas99",
+                "url": "https://github.com/guillenicolas99"
+            }
+        ]
+    },
+    "work": [{
+            "name": "My Host Deluxe",
+            "position": "Diseñador Web",
+            "startDate": "2021-09-07",
+            "endDate": null,
+            "summary": "Como desarrollador web, mi principal responsabilidad es crear y mantener sitios web funcionales y atractivos para nuestra empresa. Esto implica trabajar en estrecha colaboración con el equipo de diseño para traducir diseños visuales en código web, escribir código limpio y eficiente utilizando tecnologías como HTML, CSS y JavaScript, y asegurarme de que los sitios sean compatibles con diferentes navegadores y dispositivos. También me encargo de la optimización del rendimiento y la seguridad del sitio, así como de implementar funcionalidades interactivas y dinámicas según las necesidades del proyecto. Para desempeñar este rol, cuento con habilidades sólidas en programación web, conocimientos actualizados sobre las últimas tendencias y tecnologías en desarrollo web, y la capacidad de trabajar de manera efectiva tanto de forma independiente como en equipo.",
+            "highlights": [
+                ""
+            ]
+        },
+        {
+            "name": "Home Solutions",
+            "position": "Encargado de Soporte Técnico",
+            "url": "https://twitch.tv/midudev",
+            "startDate": "2019-03-01",
+            "endDate": "2019-09-15",
+            "summary": "Como encargado de dar soporte y mantenimiento a los equipos informáticos, mi responsabilidad principal es asegurar el correcto funcionamiento y la disponibilidad de los sistemas informáticos en nuestra empresa. Me encargo de diagnosticar y solucionar problemas técnicos, realizar mantenimiento preventivo y correctivo de hardware y software, configurar y actualizar equipos, y proporcionar asistencia técnica a los usuarios. Para desempeñar este rol, cuento con sólidas habilidades técnicas, capacidad para resolver problemas de manera efectiva, excelentes habilidades de comunicación y un enfoque orientado al servicio al cliente para satisfacer las necesidades de los usuarios y mantener la productividad de la empresa.",
+            "highlights": [
+                "Started the company"
+            ]
+        }
+    ],
+    "volunteer": [{
+        "organization": "Organization",
+        "position": "Volunteer",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Description…",
+        "highlights": [
+            "Awarded 'Volunteer of the Month'"
+        ]
+    }],
+    "education": [{
+        "institution": "Universitat Oberta de Catalunya",
+        "url": "https://www.uoc.edu/portal/es/index.html",
+        "area": "Ingeniero de Software",
+        "studyType": "Bachelor",
+        "startDate": "2003-01-01",
+        "endDate": "2009-01-01",
+        "score": "4.0",
+        "courses": [
+            "DB1101 - Basic SQL"
+        ]
+    }],
+    "awards": [{
+        "title": "Award",
+        "date": "2014-11-01",
+        "awarder": "Company",
+        "summary": "There is no spoon."
+    }],
+    "certificates": [{
+        "name": "Certificate",
+        "date": "2021-11-07",
+        "issuer": "Company",
+        "url": "https://certificate.com"
+    }],
+    "publications": [{
+        "name": "Publication",
+        "publisher": "Company",
+        "releaseDate": "2014-10-01",
+        "url": "https://publication.com",
+        "summary": "Description…"
+    }],
+    "skills": [{
+            "name": "HTML",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web", "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones", "Colaboración", "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+            ]
+        },
+        {
+            "name": "Next.js",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+            ]
+        }, {
+            "name": "WordPress",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+            ]
+        }, {
+            "name": "WooCommerce",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+            ]
+        }
+    ],
+    "languages": [{
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [{
+        "name": "Wildlife",
+        "keywords": [
+            "Ferrets",
+            "Unicorns"
+        ]
+    }],
+    "references": [{
+        "name": "Jane Doe",
+        "reference": "Reference…"
+    }],
+    "projects": [{
+            "name": "Tic Tac Toe",
+            "isActive": true,
+            "description": "Juego conocido como Tres en Raya para entretenerte mientras pasas el rato con un amigo",
+            "highlights": [
+                "La risas y rabias no faltarán",
+                "React JS"
+            ],
+            "url": "https://tic-tac-toe-react-devsftwr.netlify.app/"
+        },
+        {
+            "name": "Rick and Morty API",
+            "isActive": true,
+            "description": "Lista de personajes de la serie animada conocida como Rick and Morty",
+            "highlights": [
+                "En desarrollo",
+                "React JS"
+            ],
+            "url": "https://rick-morty-react-app-api.netlify.app/"
+        },
+        {
+            "name": "https://random-users-table-react.netlify.app/",
+            "isActive": true,
+            "description": "Consumiendo una API de usuarios al azar para mostrarlos en una tabla capaz de filtrar y ordenar",
+            "highlights": [
+                "React JS"
+            ],
+            "url": "https://random-users-table-react.netlify.app/"
+        },
+        {
+            "name": "Giphy APP",
+            "isActive": true,
+            "description": "Busca el Gif que te venga a la mente",
+            "highlights": [
+                "En desarrollo",
+                "React JS"
+            ],
+            "url": "https://giphy-app-react-js.netlify.app"
+        },
+        {
+            "name": "Reloj",
+            "isActive": true,
+            "description": "Reloj tiempo real",
+            "highlights": [
+                "Vanilla Javascript"
+            ],
+            "url": "https://clock-app-vanilla-js.netlify.app/"
+        }
+    ]
+}
